@@ -1,5 +1,5 @@
 import React from 'react'
-import ProfilePic from "../Assets/john-doe-image.png"
+import ProfilePic from "../Assets/camila-afonso-t.png"
 import { AiFillStar } from 'react-icons/ai'
 
 const Testimonial = () => {
@@ -10,28 +10,27 @@ const Testimonial = () => {
                 <h1 className="primary-heading">
                     What they Are Saying
                 </h1>
-                <p classNmae="primary-text">
+                <p className="primary-text">
                     Here are some comments about Gourmet Backyard. Customers love the combination of fresh and delicious
                     dishes with the convenience of delivery. You can choose how often you'dlike
                     to receive these gourmet meals, enjoying a unique dining experience at home.
                 </p>
             </div>
-            <div className="testimonial-section-botton">
+            <div className="testimonial-section-bottom">
                 <img src={ProfilePic} alt="" />
                 <p>
                     Gourmet Backyard is a charming outdoor restaurant offering fresh and delicious dishes prepared
                     with garden-fresh ingredients. With flexible delivery options, you can enjoy this unique dining
-                    experience as often as you like, right in the comfort of your home. The impeccable service and
-                    tranquil ambiance make it perfect for any occasion.
+                    experience as often as you like, right in the comfort of your home.
                 </p>
-                <div className="testimonial-stars-container">
+                <div className="testimonials-stars-container">
                     <AiFillStar />
                     <AiFillStar />
                     <AiFillStar />
                     <AiFillStar />
                     <AiFillStar />
                 </div>
-                <h2>John Doe</h2>
+                <h2>Camila Afonso</h2>
             </div>
         </div>
     );

@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Logo from "../Assets/Logo.svg";
+import Logo from "../Assets/logo.png";
 import { BsCart2 } from "react-icons/bs";
 import { HiOutlineBars3 } from "react-icons/hi2";
 import {
@@ -47,11 +47,11 @@ const Navbar = () => {
         <img src={Logo} alt="" />
       </div>
       <div className="navbar-links-container" >
-        <a href="">Home</a>
-        <a href="">About</a>
-        <a href="">Testimonials</a>
-        <a href="">Contact</a>
-        <a href="">
+        <a href="/">Home</a>
+        <a href="/">About</a>
+        <a href="/">Testimonials</a>
+        <a href="/">Contact</a>
+        <a href="/">
           <BsCart2 className="navbar-cart-icon" />
         </a>
         <button className="primary-button"> Bookings Now</button>
