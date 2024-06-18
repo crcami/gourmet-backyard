@@ -8,17 +8,17 @@ function Work() {
     {
       image: PickMeals,
       title: "Pick Meals",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis elementum interdum facilisi bibendum.",
+      text: "Select your favorite dishes from our menu of original and delicious options.",
     },
     {
       image: ChooseMeals,
       title: "Choose How Often",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et.",
+      text: "Decide how often you want to receive your meals, whether weekly or as needed.",
     },
     {
       image: DeliveryMeals,
       title: "Fast Deliveries",
-      text: "Lorem ipsum dolor sit amet consectetur. Maecenas orci et sagittis duis.",
+      text: "Receive your gourmet meals quickly, straight to your door, ready to enjoy.",
     }
   ]
 
@@ -28,9 +28,9 @@ function Work() {
       <p className="primary-subheading">Work</p>
       <h1 className="primary-heading">How it Works</h1>
       <p className="primary-text">
-        Lorem ipsum dolor sit amet consectetur. Non tincidunt
-        magna non et elit. Dolor  turpis molestie dui
-        magnis facilisis at fringilla quam.
+        Our restaurant's delivery system guarantees the quick delivery of fresh dishes,
+        made with ingredients harvested directly from our garden, ensuring exceptional
+        quality and flavor in each order.
       </p>
     </div>
     <div className="work-section-bottom">
