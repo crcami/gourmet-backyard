@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.8bf12de4.css",
-    "main.js": "/static/js/main.dfe10af8.js",
-    "static/media/home-banner-image.png": "/static/media/home-banner-image.a41849b23e5c36d66717.png",
-    "static/media/about-background-image.png": "/static/media/about-background-image.d0e45280dd69dec26ee6.png",
-    "static/media/logo.png": "/static/media/logo.a2055a2e4d2e0267a4a2.png",
-    "static/media/gb-top-background-t.png": "/static/media/gb-top-background-t.225ea3b7c7aa40fb5460.png",
-    "static/media/gb-about-background-t.png": "/static/media/gb-about-background-t.2f41e1b158008769782b.png",
-    "static/media/camila-afonso-t.png": "/static/media/camila-afonso-t.b28c3f33bb12e8282a65.png",
-    "index.html": "/index.html",
-    "main.8bf12de4.css.map": "/static/css/main.8bf12de4.css.map",
-    "main.dfe10af8.js.map": "/static/js/main.dfe10af8.js.map"
+    "main.css": "/gourmet-backyard/static/css/main.8bf12de4.css",
+    "main.js": "/gourmet-backyard/static/js/main.069b27c8.js",
+    "static/media/home-banner-image.png": "/gourmet-backyard/static/media/home-banner-image.a41849b23e5c36d66717.png",
+    "static/media/about-background-image.png": "/gourmet-backyard/static/media/about-background-image.d0e45280dd69dec26ee6.png",
+    "static/media/logo.png": "/gourmet-backyard/static/media/logo.a2055a2e4d2e0267a4a2.png",
+    "static/media/gb-top-background-t.png": "/gourmet-backyard/static/media/gb-top-background-t.225ea3b7c7aa40fb5460.png",
+    "static/media/gb-about-background-t.png": "/gourmet-backyard/static/media/gb-about-background-t.2f41e1b158008769782b.png",
+    "static/media/camila-afonso-t.png": "/gourmet-backyard/static/media/camila-afonso-t.b28c3f33bb12e8282a65.png",
+    "index.html": "/gourmet-backyard/index.html",
+    "main.8bf12de4.css.map": "/gourmet-backyard/static/css/main.8bf12de4.css.map",
+    "main.069b27c8.js.map": "/gourmet-backyard/static/js/main.069b27c8.js.map"
   },
   "entrypoints": [
     "static/css/main.8bf12de4.css",
-    "static/js/main.dfe10af8.js"
+    "static/js/main.069b27c8.js"
   ]
 }
