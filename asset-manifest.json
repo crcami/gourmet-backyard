@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gourmet-backyard/static/css/main.8bf12de4.css",
-    "main.js": "/gourmet-backyard/static/js/main.069b27c8.js",
+    "main.js": "/gourmet-backyard/static/js/main.91448393.js",
     "static/media/home-banner-image.png": "/gourmet-backyard/static/media/home-banner-image.a41849b23e5c36d66717.png",
     "static/media/about-background-image.png": "/gourmet-backyard/static/media/about-background-image.d0e45280dd69dec26ee6.png",
     "static/media/logo.png": "/gourmet-backyard/static/media/logo.a2055a2e4d2e0267a4a2.png",
@@ -10,10 +10,10 @@
     "static/media/camila-afonso-t.png": "/gourmet-backyard/static/media/camila-afonso-t.b28c3f33bb12e8282a65.png",
     "index.html": "/gourmet-backyard/index.html",
     "main.8bf12de4.css.map": "/gourmet-backyard/static/css/main.8bf12de4.css.map",
-    "main.069b27c8.js.map": "/gourmet-backyard/static/js/main.069b27c8.js.map"
+    "main.91448393.js.map": "/gourmet-backyard/static/js/main.91448393.js.map"
   },
   "entrypoints": [
     "static/css/main.8bf12de4.css",
-    "static/js/main.069b27c8.js"
+    "static/js/main.91448393.js"
   ]
 }
